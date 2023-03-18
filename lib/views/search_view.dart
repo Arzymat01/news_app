@@ -37,7 +37,7 @@ class _SearchViewState extends State<SearchView> {
             await fetchData(value);
           }),
           decoration: const InputDecoration(
-            fillColor: Color.fromARGB(255, 44, 41, 32),
+            fillColor: Color.fromARGB(255, 242, 240, 234),
             filled: true,
             border: OutlineInputBorder(),
           ),
